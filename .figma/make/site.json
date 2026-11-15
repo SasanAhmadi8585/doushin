@@ -1,0 +1,10 @@
+{
+  "description": "Browse handmade decorative pieces from Iranian brand doushin, explore product details, and contact the maker to ask about an item.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
