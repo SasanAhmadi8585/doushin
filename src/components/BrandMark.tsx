@@ -9,7 +9,7 @@ export function BrandMark() {
       dir="ltr"
     >
       <img
-        src="/public/Images/Products/logo-removebg-preview.png"
+        src="/Images/Products/logo-removebg-preview.png"
         alt=""
         className="size-45"
       />
