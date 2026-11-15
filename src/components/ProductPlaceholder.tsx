@@ -26,7 +26,7 @@ export function ProductPlaceholder({
       ) : (
         <div className="flex h-full w-full items-center justify-center">
           <img
-            src="/public/Images/Products/IMG_20260916_173321_670.jpg"
+            src="/Images/Products/IMG_20260916_173321_670.jpg"
             alt=""
           />
         </div>

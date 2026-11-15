@@ -21,7 +21,7 @@ export const products: Product[] = [
     slug: "round-tray-golden-veins",
     name: "باکس سبز",
     price: 880000,
-    image: "/public/Images/Products/باکس سبز.jpg",
+    image: "/Images/Products/box-green.jpg",
     category: "باکس گل",
     description:
       "یک ست دست‌ساز آرام و مینیمال برای پذیرایی‌های کوچک و چیدمان‌های روشن.",
@@ -36,7 +36,7 @@ export const products: Product[] = [
     slug: "six-part-nut-bowl",
     name: "ظرف آجیل‌خوری شش‌خانه",
     price: 400000,
-    image: "/public/Images/Products/IMG_20260916_173321_670.jpg",
+    image: "/Images/Products/IMG_20260916_173321_670.jpg",
     category: "شمع فانتزی",
     description:
       "ظرفی سبک و چشم‌نواز با شش بخش مجزا برای پذیرایی و استفادهٔ روزمره.",
@@ -51,7 +51,7 @@ export const products: Product[] = [
     slug: "wood-look-serving-set",
     name: "ست سینی و ظرف‌های چوب‌نما",
     price: 750000,
-    image: "/public/Images/Products/IMG_20260916_173321_670.jpg",
+    image: "/Images/Products/IMG_20260916_173321_670.jpg",
     category: "باکس گل",
     description:
       "ترکیب بافت گرم چوب‌نما با فرم‌های نرم، مناسب میز پذیرایی و هدیه.",
@@ -66,7 +66,7 @@ export const products: Product[] = [
     slug: "leaf-bowls-round-tray",
     name: "ست دو ظرف برگی با سینی گرد",
     price: 700000,
-    image: "/public/Images/Products/IMG_20260916_173321_670.jpg",
+    image: "/Images/Products/IMG_20260916_173321_670.jpg",
     category: "باکس گل",
     description:
       "دو ظرف با فرم برگ روی سینی گرد؛ ساخته‌شده برای یک چیدمان ساده و متفاوت.",
@@ -81,7 +81,7 @@ export const products: Product[] = [
     slug: "tall-ribbed-vase",
     name: "گلدان بلند شیاردار",
     price: 520000,
-    image: "/public/Images/Products/IMG_20260916_173321_670.jpg",
+    image: "/Images/Products/IMG_20260916_173321_670.jpg",
     category: "شمع جار",
     description:
       "گلدانی کشیده با شیارهای ظریف که به‌تنهایی یا کنار شاخه‌های خشک زیباست.",
@@ -96,7 +96,7 @@ export const products: Product[] = [
     slug: "pebble-decor-set",
     name: "ظرف سه تیکه طرح چوب",
     price: 310000,
-    image: "/public/Images/Products/IMG_20260916_173321_670.jpg",
+    image: "/Images/Products/IMG_20260916_173321_670.jpg",
     category: "دکوراتیو",
     description: "...",
     specs: {
@@ -110,7 +110,7 @@ export const products: Product[] = [
     slug: "oval-wave-platter",
     name: "دیس بیضی موج‌دار",
     price: 460000,
-    image: "/public/Images/Products/IMG_20260916_173321_670.jpg",
+    image: "/Images/Products/IMG_20260916_173321_670.jpg",
     category: "شمع فانتزی",
     description:
       "دیس بیضی با لبه‌های موج‌دار و بافت مات برای سرو شیرینی یا چیدمان دکوری.",
@@ -125,7 +125,7 @@ export const products: Product[] = [
     slug: "short-orbit-vase",
     name: "گلدان کوتاه مدار",
     price: 390000,
-    image: "/public/Images/Products/IMG_20260916_173321_670.jpg",
+    image: "/Images/Products/IMG_20260916_173321_670.jpg",
     category: "شمع جار",
     description:
       "فرمی گرد و متعادل با دهانهٔ کوچک، مناسب شاخه‌های مینیمال و خشک.",
@@ -140,7 +140,7 @@ export const products: Product[] = [
     slug: "minimal-candle-stand",
     name: "پایه شمع مینیمال",
     price: 280000,
-    image: "/public/Images/Products/IMG_20260916_173321_670.jpg",
+    image: "/Images/Products/IMG_20260916_173321_670.jpg",
     category: "دکوراتیو",
     description:
       "پایه‌ای ساده با تناسبات ظریف برای شمع‌های باریک و میزهای خلوت.",
@@ -155,7 +155,7 @@ export const products: Product[] = [
     slug: "soft-edge-bowl-pair",
     name: "جفت کاسه لبه‌نرم",
     price: 430000,
-    image: "/public/Images/Products/IMG_20260916_173321_670.jpg",
+    image: "/Images/Products/IMG_20260916_173321_670.jpg",
     category: "شمع فانتزی",
     description:
       "دو کاسهٔ کوچک با لبه‌های نرم و نامنظم، مناسب تنقلات یا اشیای ظریف.",
@@ -170,7 +170,7 @@ export const products: Product[] = [
     slug: "arched-object",
     name: "حجم دکوری قوس",
     price: 320000,
-    image: "/public/Images/Products/IMG_20260916_173321_670.jpg",
+    image: "/Images/Products/IMG_20260916_173321_670.jpg",
     category: "دکوراتیو",
     description:
       "یک حجم معماری کوچک برای کتابخانه، کنسول یا کنار قاب‌های تصویری.",
@@ -185,7 +185,7 @@ export const products: Product[] = [
     slug: "slim-neck-vase",
     name: "گلدان گردن‌باریک",
     price: 570000,
-    image: "/public/Images/Products/IMG_20260916_173321_670.jpg",
+    image: "/Images/Products/IMG_20260916_173321_670.jpg",
     category: "شمع جار",
     description:
       "گلدانی آرام با بدنهٔ پر و گردن باریک برای نمایش یک یا دو شاخهٔ ساده.",
